@@ -1,6 +1,6 @@
 # Finance-Agent
 
-#What are Agents?
+# What are Agents?
 Agents are autonomous programs that use language models to achieve tasks. They solve problems by running tools and using knowledge and memory to improve responses.
 Instead of a rigid binary definition, let's think of Agents in terms of agency and autonomy.
 
